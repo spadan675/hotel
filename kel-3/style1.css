@@ -1,0 +1,47 @@
+*{
+    padding:3;
+    margin:3;
+}
+.home{
+    width:90%;
+    margin:3%;
+    height:0%;
+}
+.home img{
+    padding:1%;
+
+}
+.nav{
+    border:1px solid #777777
+    padding:10px;
+    margin:10px;
+    text-align:right;
+}
+#huruf2{
+    text-transform:capitalize;
+    text-align:justify;
+}
+
+#list li{
+background:grey;
+display:inline;
+border:1px;
+list-style:none;
+text-align:center;
+padding-bottom:10px;
+padding-top:10px;
+}
+#list li:hover{
+background:green;
+}
+#list li a{
+color:white;
+display:inline;
+text-decoration:none;
+padding:20px 20px;
+}
+body{
+    background-image:url("images/123.jpg");
+    background-size:500px 450px ;
+    color:white;
+}
